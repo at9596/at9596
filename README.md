@@ -14,7 +14,7 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
 <table>
   <tr>
     <td><b>Email</b></td>
-    <td><img src="https://img.shields.io/badge/Email-ns172128561@gmail.com-black?style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/Email-abhishektanwar9596@gmail.com-black?style=for-the-badge" /></td>
   </tr>
   <tr>
     <td><b>Phone</b></td>
@@ -28,13 +28,11 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
   </tr>
   <tr>
     <td><b>LeetCode</b></td>
-    <td><a href="https://leetcode.com/yourusername/">
+    <td><a href="https://leetcode.com/u/Abhishek_Tanwar/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
     </a></td>
   </tr>
-  <tr>
-    <td><b>YouTube</b></td>
-    <td><a href="https://www.youtube.com/c/yourchannel/">
+</table>
   
 
 ---
