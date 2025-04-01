@@ -182,18 +182,16 @@ Below are some of my personal projects, which highlight my experience and intere
 
 
    - **Key Features**:
-     ## Key Features
-
-    - Fetches profile information for any GitHub user.
-    - Displays the following details for the specified user:
-      - Username
-      - Name
-      - Bio
-      - Number of Public Repositories
-      - Number of Followers
-      - Number of Following
-      - Profile URL
-    - Simple to use and easy to extend for additional features (e.g., fetching more details, handling pagination for repositories, etc.).
+     - Fetches profile information for any GitHub user.
+     - Displays the following details for the specified user:
+        - Username
+        - Name
+        - Bio
+        - Number of Public Repositories
+        - Number of Followers
+        - Number of Following
+        - Profile URL
+     - Simple to use and easy to extend for additional features (e.g., fetching more details, handling pagination for repositories, etc.).
 
 
 
