@@ -170,16 +170,4 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
 
 ---
 
----
 
-## 📊 GitHub Stats:
-
-![At9596's GitHub stats](https://github-readme-stats.vercel.app/api?username=at9596&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
-
----
-
-## 🔗 GitHub Status:
-
-![GitHub Status](https://img.shields.io/github/status/at9596)
-
----
