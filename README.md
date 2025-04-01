@@ -168,3 +168,14 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
+## 📊 GitHub Stats:
+
+![At9596's GitHub stats](https://github-readme-stats.vercel.app/api?username=at9596&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+
+---
+
+## Links to Repositories
+
+- [Project 1 Repository](https://github.com/at9596/project1)
+- [Project 2 Repository](https://github.com/at9596/project2)
+- [Project 3 Repository](https://github.com/at9596/project3)
