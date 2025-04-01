@@ -9,10 +9,33 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
 
 ---
 
-## 🌐 **Socials**  
-📩 Email: [abhishektanwar9596@gmail.com]  
-💼 LinkedIn: (https://www.linkedin.com/in/abhishek-t-6548b71a7/)  
-🐦 Twitter: (https://x.com/Abhishe21035737)  
+## 🌐 Socials  
+
+<table>
+  <tr>
+    <td><b>Email</b></td>
+    <td><img src="https://img.shields.io/badge/Email-ns172128561@gmail.com-black?style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td><b>Phone</b></td>
+    <td><img src="https://img.shields.io/badge/Phone-%2B91%207389058485-gray?style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td><b>LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/yourusername/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a></td>
+  </tr>
+  <tr>
+    <td><b>LeetCode</b></td>
+    <td><a href="https://leetcode.com/yourusername/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    </a></td>
+  </tr>
+  <tr>
+    <td><b>YouTube</b></td>
+    <td><a href="https://www.youtube.com/c/yourchannel/">
+  
 
 ---
 
