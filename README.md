@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Abhishek Tanwar!
 
-👀 I have experience in **Ruby on Rails, React.js, Python, and Full-Stack Web Development**.  
+👀 I have experience in **Ruby on Rails, React.js, Python, PHP,and Full-Stack Web Development, AWS services**.  
 I'm passionate about **real-time web applications, backend development, and building scalable solutions**.  
 Currently, I'm working on **TaskMaster**, a real-time task management web application.  
 
@@ -10,21 +10,13 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
 
 ## 🌐 **Socials**  
 📩 Email: [Your Email]  
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)  
-🐦 Twitter: [Your Twitter Handle](https://twitter.com/yourusername)  
-📺 YouTube: [Your YouTube Channel](https://youtube.com/yourchannel)  
+💼 LinkedIn: (https://www.linkedin.com/in/abhishek-t-6548b71a7/)  
+🐦 Twitter: (https://x.com/Abhishe21035737)  
 
 ---
 
 ## 👨‍💻 **Professional Experience**  
 
-### **Software Developer | Your Current Company**  
-📍 Location (MM/YYYY - Present)  
-**Technologies:** Ruby on Rails, React.js, PostgreSQL, Stimulus Reflex, Docker, AWS  
-
-**Project:** TaskMaster - A real-time task management system  
-💡 *Developed an interactive task manager with real-time updates using Stimulus Reflex and Rails.*  
-
-🔹 Built a REST API with authentication using Devise + JWT.  
-🔹 Designed a progress tracker feature with live updates.  
-🔹 Integrated PostgreSQL for high-performance database management
+### **SR Software Developer | Aglowid**  
+📍 Location (11/2024 - 03/2025)  
+**Technologies:** Ruby on Rails, React.js, PostgreSQL, Docker, AWS  
