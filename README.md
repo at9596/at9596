@@ -170,15 +170,15 @@ Below are some of my personal projects, which highlight my experience and intere
 ### 1. **ML Model for GITHUB PROFILE**
    - **Description**: This project fetches and displays a GitHub user's profile information using the GitHub API. It retrieves details like username, name, bio, number of public repositories, followers, and following..
    - **Technologies**:
-                      -  Python: Main programming language.
-
-                      - Requests Library: Used to make HTTP requests to the GitHub API (pip install requests).
-                      
-                      - GitHub API (REST v3): API used to fetch user profile data.
-                      
-                      - JSON: Format used for API response parsing.
-                      
-                      - CLI (Command Line Interface): Used to run the script and display profile data.
+      -  Python: Main programming language.
+  
+      - Requests Library: Used to make HTTP requests to the GitHub API (pip install requests).
+      
+      - GitHub API (REST v3): API used to fetch user profile data.
+      
+      - JSON: Format used for API response parsing.
+      
+      - CLI (Command Line Interface): Used to run the script and display profile data.
 
 
    - **Key Features**:
