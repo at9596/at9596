@@ -37,8 +37,65 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
 
 ---
 
-## 👨‍💻 **Professional Experience**  
+## 🏆 Professional Experience  
 
-### **SR Software Developer | Aglowid**  
-📍 Location (11/2024 - 03/2025)  
-**Technologies:** Ruby on Rails, React.js, PostgreSQL, Docker, AWS  
+### **SR. Ruby on Rails Developer**  
+**Aglowid IT Solutions • Ahmedabad, Gujarat**  
+📅 *11/2024 – 02/2025*  
+- Developed API-based backend applications using Ruby on Rails 7.  
+- Designed and implemented RESTful APIs for seamless communication with frontend applications.  
+- Managed database interactions efficiently using Active Record and optimized query performance.  
+- Deployed applications using Capistrano, ensuring smooth and automated deployments.  
+- Worked on authentication, authorization, and API security best practices.  
+
+---
+
+### **SR. Ruby on Rails Developer**  
+**Chetu Inc. • Noida, Uttar Pradesh**  
+📅 *04/2023 - 02/2024*  
+- Developed and maintained web applications using Ruby on Rails.  
+- Integrated Stripe payment gateway for seamless online transactions.  
+- Worked with HAML templates to create clean and efficient front-end components.  
+- Improved UI/UX using HTML, CSS, and JavaScript in combination with Rails views.  
+- Gained experience in API integrations, database management, and backend development.  
+
+---
+
+### **Associate Ruby on Rails Developer**  
+**Uimatic • Mohali, Chandigarh**  
+📅 *12/2021 - 04/2023*  
+- Worked on a full-stack online interior designing project using Ruby on Rails.  
+- Integrated third-party APIs such as HubSpot, GHL, and Smart Address API for enhanced functionality.  
+- Developed and maintained features using Rails 5 & 6, ensuring smooth backend operations.  
+- Built responsive UI components using HTML, CSS, and JavaScript to improve user experience.  
+- Collaborated with the team to implement best practices in database management and API integration.  
+
+---
+
+### **Trainee Programmer**  
+**Tecorb Noida • Noida, Uttar Pradesh**  
+📅 *01/2021 - 04/2021*  
+- Gained hands-on experience in Ruby on Rails development, focusing on best coding practices.  
+- Learned and worked with Active Record, Migrations, Associations, and Active Storage for database management.  
+- Developed and integrated APIs to enhance application functionality.  
+- Explored background jobs, caching, and performance optimization techniques.  
+- Worked with Git for version control and collaborated with a team on real-world projects.  
+
+---
+
+## 🔥 **Projects**  
+
+### **Online Interior Designing Platform**  
+- Developed the application using Ruby on Rails 5 & 6.  
+- Integrated third-party APIs such as GHL, HubSpot, and Smart Address API.  
+- Implemented Pundit gem for role-based authorization.  
+- Used HAML and JavaScript for structured and maintainable frontend development.  
+
+### **Online Donation Form**  
+- Built the donation platform using Ruby on Rails 5.  
+- Integrated Stripe payment gateway for secure transactions.  
+
+### **Online Employee Management System**  
+- Developed a full API-based backend using Ruby on Rails 7.  
+- Managed application deployment using Capistrano for efficient deployment automation.  
+
