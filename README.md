@@ -10,7 +10,7 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
 ---
 
 ## 🌐 **Socials**  
-📩 Email: [Your Email]  
+📩 Email: [abhishektanwar9596@gmail.com]  
 💼 LinkedIn: (https://www.linkedin.com/in/abhishek-t-6548b71a7/)  
 🐦 Twitter: (https://x.com/Abhishe21035737)  
 
