@@ -18,11 +18,11 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
   </tr>
   <tr>
     <td><b>Phone</b></td>
-    <td><img src="https://img.shields.io/badge/Phone-%2B91%207389058485-gray?style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/Phone-%2B91%208449303249-gray?style=for-the-badge" /></td>
   </tr>
   <tr>
     <td><b>LinkedIn</b></td>
-    <td><a href="https://www.linkedin.com/in/yourusername/">
+    <td><a href="https://www.linkedin.com/in/abhishek-t-6548b71a7/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a></td>
   </tr>
