@@ -5,9 +5,7 @@
 </p>
 👀 I have experience in **Ruby on Rails, React.js, Python, PHP,and Full-Stack Web Development, AWS services**.  
 I'm passionate about **real-time web applications, backend development, and building scalable solutions**.  
-Currently, I'm working on **TaskMaster**, a real-time task management web application.  
-
-⚡ **Fun fact:** Python was named after the British comedy series *"Monty Python’s Flying Circus,"* not after the snake!  
+Currently, I'm working on **TaskMaster**, a real-time task management web application.    
 
 ---
 
