@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=at9596&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
-</p>
 
 # 👋 Hi, I'm Abhishek Tanwar!
-
+<p >
+  <img src="https://komarev.com/ghpvc/?username=at9596&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+</p>
 👀 I have experience in **Ruby on Rails, React.js, Python, PHP,and Full-Stack Web Development, AWS services**.  
 I'm passionate about **real-time web applications, backend development, and building scalable solutions**.  
 Currently, I'm working on **TaskMaster**, a real-time task management web application.  
