@@ -167,9 +167,20 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
 
 Below are some of my personal projects, which highlight my experience and interest in **Machine Learning** and **Science**:
 
-### 1. **ML Model for Predicting House Prices**
-   - **Description**: A machine learning project that uses regression models to predict house prices based on various features such as size, location, and more.
-   - **Technologies**: Python, Scikit-learn, Pandas, Matplotlib
+### 1. **ML Model for GITHUB PROFILE**
+   - **Description**: This project fetches and displays a GitHub user's profile information using the GitHub API. It retrieves details like username, name, bio, number of public repositories, followers, and following..
+   - **Technologies**:
+                      -  Python: Main programming language.
+
+                      - Requests Library: Used to make HTTP requests to the GitHub API (pip install requests).
+                      
+                      - GitHub API (REST v3): API used to fetch user profile data.
+                      
+                      - JSON: Format used for API response parsing.
+                      
+                      - CLI (Command Line Interface): Used to run the script and display profile data.
+
+
    - **Key Features**:
      - Data preprocessing (handling missing values, scaling features)
      - Regression models (Linear Regression, Random Forest)
