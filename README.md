@@ -174,8 +174,3 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
 
 ---
 
-## Links to Repositories
-
-- [Project 1 Repository](https://github.com/at9596/project1)
-- [Project 2 Repository](https://github.com/at9596/project2)
-- [Project 3 Repository](https://github.com/at9596/project3)
