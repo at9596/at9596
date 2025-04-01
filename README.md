@@ -99,3 +99,13 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
 - Developed a full API-based backend using Ruby on Rails 7.  
 - Managed application deployment using Capistrano for efficient deployment automation.  
 
+
+## 🎓 Education  
+
+### **Master of Computer Applications (MCA)**  
+**IMS Ghaziabad • Ghaziabad, Uttar Pradesh**  
+📅 *Graduated: 06/2021*  
+
+### **Bachelor of Computer Applications (BCA)**  
+**IIMT Meerut • Meerut, Uttar Pradesh**  
+📅 *Graduated: 06/2018*  
