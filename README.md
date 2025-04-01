@@ -163,6 +163,19 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
 ![Kamal](https://img.shields.io/badge/Kamal-1E90FF?style=for-the-badge)  
 
 ---
+## 🔬 Personal Projects
+
+Below are some of my personal projects, which highlight my experience and interest in **Machine Learning** and **Science**:
+
+### 1. **ML Model for Predicting House Prices**
+   - **Description**: A machine learning project that uses regression models to predict house prices based on various features such as size, location, and more.
+   - **Technologies**: Python, Scikit-learn, Pandas, Matplotlib
+   - **Key Features**:
+     - Data preprocessing (handling missing values, scaling features)
+     - Regression models (Linear Regression, Random Forest)
+     - Model evaluation using R², Mean Squared Error (MSE)
+   - **Link**: [GitHub Repository](https://github.com/at9596/ML-House-Price-Prediction)
+
 
 ### **Version Control**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
