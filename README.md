@@ -195,6 +195,8 @@ Below are some of my personal projects, which highlight my experience and intere
        
 ### 2. **AI Story Generator**
 
+---
+
 
 ### **Version Control**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
