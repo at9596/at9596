@@ -165,47 +165,52 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
 ---
 ## 🔬 Personal Projects
 
+# Personal Projects
+
 Below are some of my personal projects, which highlight my experience and interest in **Machine Learning** and **Science**:
 
-### 1. **ML Model for GITHUB PROFILE**
-   - **Description**: This project fetches and displays a GitHub user's profile information using the GitHub API. It retrieves details like username, name, bio, number of public repositories, followers, and following..
-   - **Technologies**:
-      -  Python: Main programming language.
-  
-      - Requests Library: Used to make HTTP requests to the GitHub API (pip install requests).
-      
-      - GitHub API (REST v3): API used to fetch user profile data.
-      
-      - JSON: Format used for API response parsing.
-      
-      - CLI (Command Line Interface): Used to run the script and display profile data.
+## 1. **ML Model for GITHUB PROFILE**
+### Description:
+This project fetches and displays a GitHub user's profile information using the GitHub API. It retrieves details like username, name, bio, number of public repositories, followers, and following.
 
+### Technologies:
+- **Python**: Main programming language.
+- **Requests Library**: Used to make HTTP requests to the GitHub API (`pip install requests`).
+- **GitHub API (REST v3)**: API used to fetch user profile data.
+- **JSON**: Format used for API response parsing.
+- **CLI (Command Line Interface)**: Used to run the script and display profile data.
 
-   - **Key Features**:
-     - Fetches profile information for any GitHub user.
-     - Displays the following details for the specified user:
-        - Username
-        - Name
-        - Bio
-        - Number of Public Repositories
-        - Number of Followers
-        - Number of Following
-        - Profile URL
-     - Simple to use and easy to extend for additional features (e.g., fetching more details, handling pagination for repositories, etc.).
-       
-### 2. **AI Story Generator**
-  ## Features
-  - **User Input Handling**: Users enter a theme, keywords, or a starting sentence for the story.
-  - **AI-Generated Stories**: AI generates stories based on user input using GPT models.
-  - **Genre Selection**: Users can select genres such as Sci-Fi, Mystery, Fantasy, etc.
-  - **Story Customization**: Users can adjust story length, writing style, and complexity.
-  - **Save & Share**: Save stories or share them with others.
-  - **Login & History (Optional)**: User authentication to view previously generated stories (using databases like PostgreSQL or Firebase).
-  
-  ## Tech Stack
-  - **Backend**: Python, FastAPI
-  - **Machine Learning Model**: GPT-3/GPT-4 (or open-source models like Llama, Falcon, Mistral)
+### Key Features:
+- Fetches profile information for any GitHub user.
+- Displays the following details for the specified user:
+  - Username
+  - Name
+  - Bio
+  - Number of Public Repositories
+  - Number of Followers
+  - Number of Following
+  - Profile URL
+- Simple to use and easy to extend for additional features (e.g., fetching more details, handling pagination for repositories, etc.).
 
+---
+
+## 2. **AI Story Generator**
+### Description:
+AI-powered application that generates short stories based on user input, such as keywords, themes, or genres. It allows users to customize the story length, genre, and writing style, providing an engaging experience.
+
+### Tech Stack:
+- **Backend**: Python, FastAPI
+- **Machine Learning Model**: GPT-3/GPT-4 (or open-source models like Llama, Falcon, Mistral)
+- **Frontend**: React.js or Streamlit
+- **Deployment**: Docker, AWS/GCP
+
+### Key Features:
+- **User Input Handling**: Users enter a theme, keywords, or a starting sentence for the story.
+- **AI-Generated Stories**: AI generates stories based on user input using GPT models.
+- **Genre Selection**: Users can select genres such as Sci-Fi, Mystery, Fantasy, etc.
+- **Story Customization**: Users can adjust story length, writing style, and complexity.
+- **Save & Share**: Save stories or share them with others.
+- **Login & History (Optional)**: User authentication to view previously generated stories (using databases like PostgreSQL or Firebase).
 
 ---
 
