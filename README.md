@@ -192,7 +192,8 @@ Below are some of my personal projects, which highlight my experience and intere
         - Number of Following
         - Profile URL
      - Simple to use and easy to extend for additional features (e.g., fetching more details, handling pagination for repositories, etc.).
-
+       
+### 2. **AI Story Generator**
 
 
 ### **Version Control**  
