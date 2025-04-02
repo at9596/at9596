@@ -194,6 +194,18 @@ Below are some of my personal projects, which highlight my experience and intere
      - Simple to use and easy to extend for additional features (e.g., fetching more details, handling pagination for repositories, etc.).
        
 ### 2. **AI Story Generator**
+  ## Features
+  - **User Input Handling**: Users enter a theme, keywords, or a starting sentence for the story.
+  - **AI-Generated Stories**: AI generates stories based on user input using GPT models.
+  - **Genre Selection**: Users can select genres such as Sci-Fi, Mystery, Fantasy, etc.
+  - **Story Customization**: Users can adjust story length, writing style, and complexity.
+  - **Save & Share**: Save stories or share them with others.
+  - **Login & History (Optional)**: User authentication to view previously generated stories (using databases like PostgreSQL or Firebase).
+  
+  ## Tech Stack
+  - **Backend**: Python, FastAPI
+  - **Machine Learning Model**: GPT-3/GPT-4 (or open-source models like Llama, Falcon, Mistral)
+
 
 ---
 
