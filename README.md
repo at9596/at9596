@@ -200,17 +200,14 @@ AI-powered application that generates short stories based on user input, such as
 
 ### Tech Stack:
 - **Backend**: Python, FastAPI
-- **Machine Learning Model**: GPT-3/GPT-4 (or open-source models like Llama, Falcon, Mistral)
+- **Machine Learning Model**: open-source models like Llama, Falcon, Mistral
 - **Frontend**: React.js or Streamlit
 - **Deployment**: Docker, AWS/GCP
 
 ### Key Features:
 - **User Input Handling**: Users enter a theme, keywords, or a starting sentence for the story.
 - **AI-Generated Stories**: AI generates stories based on user input using GPT models.
-- **Genre Selection**: Users can select genres such as Sci-Fi, Mystery, Fantasy, etc.
-- **Story Customization**: Users can adjust story length, writing style, and complexity.
-- **Save & Share**: Save stories or share them with others.
-- **Login & History (Optional)**: User authentication to view previously generated stories (using databases like PostgreSQL or Firebase).
+
 
 ---
 
