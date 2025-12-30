@@ -40,6 +40,16 @@ Currently, I'm working on **TaskMaster**, a real-time task management web applic
 ## 🏆 Professional Experience  
 
 ### **SR. Ruby on Rails Developer**  
+**Sobonix IT • Mohali, Punjab**  
+📅 *04/2025 – present*  
+- Built and maintained a secure data synchronization system to centralize employee compliance and safety records, reducing repetitive administrative effort and improving compliance consistency across departments and locations.  
+- Revamped database structure, resulting in a significant improvement in application performance and scalability.  
+- Managed database interactions efficiently using Active Record and optimized query performance.  
+- Deployed applications using AWS cloud platforms, ensuring smooth and automated deployments.  
+- Worked on authentication, authorization, and API security best practices.  
+
+
+### **SR. Ruby on Rails Developer**  
 **Aglowid IT Solutions • Ahmedabad, Gujarat**  
 📅 *11/2024 – 02/2025*  
 - Developed API-based backend applications using Ruby on Rails 7.  
