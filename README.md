@@ -40,7 +40,7 @@ I'm passionate about **real-time web applications, backend development, and buil
 ## 🏆 Professional Experience  
 
 ### **SR. Ruby on Rails Developer**  
-**Sobonix IT • Mohali, Punjab**  
+**Sobonix IT • Mohali, Punjab(Project Based)**  
 📅 *04/2025 – present*  
 - Built and maintained a secure data synchronization system to centralize employee compliance and safety records, reducing repetitive administrative effort and improving compliance consistency across departments and locations.  
 - Revamped database structure, resulting in a significant improvement in application performance and scalability.  
@@ -50,7 +50,7 @@ I'm passionate about **real-time web applications, backend development, and buil
 
 
 ### **SR. Ruby on Rails Developer**  
-**Aglowid IT Solutions • Ahmedabad, Gujarat**  
+**Aglowid IT Solutions • Ahmedabad, Gujarat(Contract Role)**  
 📅 *11/2024 – 02/2025*  
 - Developed API-based backend applications using Ruby on Rails 7.  
 - Designed and implemented RESTful APIs for seamless communication with frontend applications.  
@@ -61,7 +61,7 @@ I'm passionate about **real-time web applications, backend development, and buil
 ---
 
 ### **SR. Ruby on Rails Developer**  
-**Chetu Inc. • Noida, Uttar Pradesh**  
+**Chetu Inc. • Noida, Uttar Pradesh(Contract Role)**  
 📅 *04/2023 - 02/2024*  
 - Developed and maintained web applications using Ruby on Rails.  
 - Integrated Stripe payment gateway for seamless online transactions.  
@@ -72,7 +72,7 @@ I'm passionate about **real-time web applications, backend development, and buil
 ---
 
 ### **Associate Ruby on Rails Developer**  
-**Uimatic • Mohali, Chandigarh**  
+**Uimatic • Mohali, Chandigarh(Full Time)**  
 📅 *12/2021 - 04/2023*  
 - Worked on a full-stack online interior designing project using Ruby on Rails.  
 - Integrated third-party APIs such as HubSpot, GHL, and Smart Address API for enhanced functionality.  
